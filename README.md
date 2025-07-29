@@ -15,6 +15,8 @@ This project targets **financial institutions** and **credit analysts** looking 
 
 The project provides real, actionable insights to inform lending strategies:
 
+![Risk_distribution_img](risk_distribution_img.png")
+
 - 💡 **High Risk (38.4%)** – Applicants in this group may pose a default threat and should undergo stringent manual review or be offered secured credit products with collateral.
 - 💡 **Medium Risk (36.5%)** – Moderate-risk customers can be extended limited credit or subject to stricter repayment terms.
 - 💡 **Low Risk (25.1%)** – Safe borrowers ideal for fast-tracking, loyalty offers, or upselling.
@@ -99,7 +101,6 @@ These features drive model interpretability and improve predictive strength by e
 | F1-Score   | 0.87    |
 | ROC-AUC    | 0.91    |
 
-*(Update these values based on your final test run)*
 
 ---
 
@@ -158,6 +159,6 @@ This project is licensed under the **Apache License** – open to use and contri
 ## 👤 Author
 
 **Nitesh Chandra Jena**
-📫 [LinkedIn](https://www.linkedin.com/in/your-profile) • 📧 [your.email@example.com](mailto:your.email@example.com)
+📫 [LinkedIn](https://www.linkedin.com/in/shreya-pandey-97252431b/)
 
 ---
