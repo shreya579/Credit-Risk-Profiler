@@ -158,7 +158,7 @@ This project is licensed under the **Apache License** – open to use and contri
 
 ## 👤 Author
 
-**Nitesh Chandra Jena**
+**Shreya Pandey**
 📫 [LinkedIn](https://www.linkedin.com/in/shreya-pandey-97252431b/)
 
 ---
