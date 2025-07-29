@@ -15,7 +15,7 @@ This project targets **financial institutions** and **credit analysts** looking 
 
 The project provides real, actionable insights to inform lending strategies:
 
-![Risk_distribution_img](risk_distribution_img.png")
+![Risk_distribution_img](risk_distribution_img.png)
 
 - 💡 **High Risk (38.4%)** – Applicants in this group may pose a default threat and should undergo stringent manual review or be offered secured credit products with collateral.
 - 💡 **Medium Risk (36.5%)** – Moderate-risk customers can be extended limited credit or subject to stricter repayment terms.
